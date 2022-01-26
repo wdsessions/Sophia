@@ -1,1 +1,1 @@
-# SophiaCESE
+# Sophia
